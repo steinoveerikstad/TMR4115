@@ -1,0 +1,41 @@
+{
+  "4": {
+    "id": "4",
+    "name": "Mission Vessel1",
+    "description": "",
+    "fleet_id": "2",
+    "route_id": "3",
+    "vessel_ids": [
+      "734115000"
+    ],
+    "port_navigation_time": 12,
+    "created_date": "2025-08-07T13:11:03.801273",
+    "status": "planned"
+  },
+  "5": {
+    "id": "5",
+    "name": "Mission Vessel2",
+    "description": "",
+    "fleet_id": "2",
+    "route_id": "4",
+    "vessel_ids": [
+      "734115002"
+    ],
+    "port_navigation_time": 12,
+    "created_date": "2025-08-07T13:12:11.948726",
+    "status": "planned"
+  },
+  "6": {
+    "id": "6",
+    "name": "Mission Vessel3",
+    "description": "",
+    "fleet_id": "2",
+    "route_id": "5",
+    "vessel_ids": [
+      "734115003"
+    ],
+    "port_navigation_time": 12,
+    "created_date": "2025-08-07T13:12:44.350856",
+    "status": "planned"
+  }
+}

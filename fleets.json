@@ -1,0 +1,43 @@
+{
+  "2": {
+    "id": "2",
+    "name": "TMR4115 Project",
+    "description": "The fleet used for TMR4115 student assignment project in 2025",
+    "created_date": "2025-08-07T11:32:58.242845",
+    "vessels": [
+      {
+        "mmsi": "734115000",
+        "imo": "4115001",
+        "name": "Vessel1",
+        "capacity": 7500,
+        "speed": 13,
+        "power_installed": 7500,
+        "fuel_type": "HFO",
+        "sfc": 190,
+        "llrate": 1000
+      },
+      {
+        "mmsi": "734115002",
+        "imo": "4115002",
+        "name": "Vessel2",
+        "capacity": 8000,
+        "speed": 13.5,
+        "power_installed": 8000,
+        "fuel_type": "HFO",
+        "sfc": 190,
+        "llrate": 1000
+      },
+      {
+        "mmsi": "734115003",
+        "imo": "4115003",
+        "name": "Vessel3",
+        "capacity": 7000,
+        "speed": 13,
+        "power_installed": 7200,
+        "fuel_type": "HFO",
+        "sfc": 190,
+        "llrate": 1000
+      }
+    ]
+  }
+}

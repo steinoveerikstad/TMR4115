@@ -1,0 +1,51 @@
+{
+  "3": {
+    "id": "3",
+    "name": "Route1 TMR4115",
+    "description": "",
+    "port_set_name": "Ass1",
+    "created_date": "2025-08-07T11:37:40.403370",
+    "ports": [
+      "NOAES",
+      "GBABD",
+      "NLRTM",
+      "SEGOT",
+      "SEGVX",
+      "NOKRS",
+      "NOAES"
+    ]  },
+"4": {
+    "id": "4",
+    "name": "Route2 TMR4115",
+    "description": "",
+    "port_set_name": "Ass1",
+    "created_date": "2025-08-07T13:06:13.405771",
+    "ports": [
+      "FIKTK",
+      "SEGVX",
+      "DKAAR",
+      "BEANR",
+      "GBABD",
+      "NOAES",
+      "NOKRS",
+      "FIKTK"
+    ] },
+  "5": {
+    "id": "5",
+    "name": "Route3 TMR4115",
+    "description": "",
+    "port_set_name": "Ass1",
+    "created_date": "2025-08-07T13:07:57.969235",
+    "ports": [
+      "NOKRS",
+      "SEGOT",
+      "DKAAR",
+      "FIKTK",
+      "NLRTM",
+      "GBABD",
+      "BEANR",
+      "NOAES",
+      "NOKRS"
+    ]
+  }
+}
