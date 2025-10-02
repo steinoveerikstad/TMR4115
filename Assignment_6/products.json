@@ -1,0 +1,34 @@
+[
+  {
+    "product_id": "MEG",
+    "name": "Monoethylene Glycol",
+    "freight_per_m3_per_trip": 52.0,
+    "min_volume_m3": 0.0,
+    "max_volume_m3": 2400.0,
+    "density_t_per_m3": 1.113
+  },
+  {
+    "product_id": "Caustic",
+    "name": "Caustic Soda (50%)",
+    "freight_per_m3_per_trip": 49.0,
+    "min_volume_m3": 0.0,
+    "max_volume_m3": 1800.0,
+    "density_t_per_m3": 1.53
+  },
+  {
+    "product_id": "Styrene",
+    "name": "Styrene Monomer",
+    "freight_per_m3_per_trip": 60.0,
+    "min_volume_m3": 600.0,
+    "max_volume_m3": 1800.0,
+    "density_t_per_m3": 0.909
+  },
+  {
+    "product_id": "VegOil",
+    "name": "Vegetable Oil",
+    "freight_per_m3_per_trip": 35.0,
+    "min_volume_m3": 0.0,
+    "max_volume_m3": 1200.0,
+    "density_t_per_m3": 0.92
+  }
+]
