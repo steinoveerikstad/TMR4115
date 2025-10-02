@@ -1,0 +1,20 @@
+[
+  {
+    "type_id": "SS316L",
+    "name": "Stainless 316L",
+    "cost_per_m3_per_trip": 8.0,
+    "compatible_products": ["MEG", "Caustic", "Styrene", "VegOil"]
+  },
+  {
+    "type_id": "Phenolic",
+    "name": "Epoxy Phenolic",
+    "cost_per_m3_per_trip": 5.0,
+    "compatible_products": ["MEG", "VegOil", "Styrene"]
+  },
+  {
+    "type_id": "Zinc",
+    "name": "Zinc Silicate",
+    "cost_per_m3_per_trip": 3.5,
+    "compatible_products": ["VegOil"]
+  }
+]
